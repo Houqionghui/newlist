@@ -1,0 +1,70 @@
+@media screen and (max-width:768px){
+    .main{
+        width: 100%;
+    }
+    .content{
+        width: 100%;
+      
+        
+    }
+    .single-mode-rbox{
+        position: relative;
+    }
+    .content .bui-box{
+        padding-left: 10px;
+    }
+    
+    
+    .content .bui-box img{
+        width: 110px;
+        height: 90px;
+
+    }
+  
+    .content ul li{
+        box-sizing: border-box;
+    }
+
+
+    .content .single-mode-rbox{
+        width: 60%;
+       
+    }
+    .content .single-mode-rbox .title-box{
+        /* width: 60%; */
+    }
+    .content .single-mode-rbox .single-mode-rbox-cont{
+        padding-top: 0;
+        width: 100%;
+    }
+    .content .single-mode-rbox .title-box a{
+        font-size: 16px
+    }
+   .bui-boxaa{
+       width: 100%;
+   }
+   .bui-boxaa .bui-left{
+    /* position: absolute;
+    left: -114px;
+    top: 80px; */
+}
+.car{
+    /* position: absolute;
+    left: 219px;
+    top: 85px; */
+    display: none;
+}
+
+.bui-box .bui-left .source{
+    font-size: 12px;
+}
+.bui-box .bui-left span{
+    font-size: 12px;
+    /* padding-right: 10px; */
+}
+    
+}
+
+
+
+
